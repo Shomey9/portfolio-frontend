@@ -27,7 +27,7 @@ The frontend application for my personal portfolio.
 
 ## Contact
 
-Muhammad Rendusara\
+Ady Rendusara\
 [LinkedIn](https://www.linkedin.com/in/hadyanrendusara/)\
 [GitHub](https://github.com/Shomey9)\
 adyrendusara@gmail.com
